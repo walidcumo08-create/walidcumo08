@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92da358d-b1a0-4026-a22a-a47547497f88" width="350">
+  <img src="https://github.com/user-attachments/assets/92da358d-b1a0-4026-a22a-a47547497f88" width="350" alt="Sombula Logo">
 </p>
 
 # 🌾 وليد جمو | Walid Cumo
@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9901f97-1a14-4bb7-8ee0-cee5fd939bf8" width="500">
+  <img src="https://github.com/user-attachments/assets/d9901f97-1a14-4bb7-8ee0-cee5fd939bf8" width="500" alt="Guardian of the Trace">
 </p>
 
 <p align="center">
