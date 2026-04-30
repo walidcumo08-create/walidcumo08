@@ -32,3 +32,8 @@
 <p align="center">
 *صُنع هذا الملف ليكون أثراً باقياً في عالم الأرقام، وحارساً لذاكرة الإنسان.*
 </p>
+### 🌐 قنوات التواصل الرسمية
+
+* 🔗 **[مدونة ووردبريس](https://your-wordpress-link.com)**
+* 🔵 **[فيسبوك](https://facebook.com/your-profile)**
+* 🎬 **[تيك توك](https://tiktok.com/@your-username)**
